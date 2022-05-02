@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="EDT Audit Helper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EDT_Audit_Helper_jar</output-path>
+    <root id="archive" name="EDT Audit Helper.jar">
+      <element id="module-output" name="EDT Audit Helper" />
+    </root>
+  </artifact>
+</component>
